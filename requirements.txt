@@ -2,4 +2,4 @@ streamlit
 pandas
 numpy
 plotly
-emoji
+emoji==2.2.0
